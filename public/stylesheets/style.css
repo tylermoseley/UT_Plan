@@ -1,0 +1,36 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#myDiagramDiv {
+  width: 1200px;
+  height: 700px;
+  border: 1px
+  solid
+  black
+}
+ul {
+  margin: 20px;
+}
+input.key-box {
+  width: 300px;
+}
+.key-color {
+  position: relative;
+}
+.key-color input {
+  padding-left: 20px;
+}
+.key-color .color-box {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  background-color: #ccc;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}

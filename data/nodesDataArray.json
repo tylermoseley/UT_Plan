@@ -1,0 +1,381 @@
+[
+  {
+    "key": "408K",
+    "title": "Differential Calculus",
+    "req": "7",
+    "color": "lightblue",
+    "hours": "4",
+    "dept": "M",
+    "desc": "Introduction to the theory and applications of differential calculus of functions of one variable; topics include limits, continuity, differentiation, and the mean value theorem and its applications. Three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403K, 408C, 408K, 408N."
+  },
+  {
+    "key": "408L",
+    "title": "Integral Calculus",
+    "req": "7",
+    "color": "lightblue",
+    "hours": "4",
+    "dept": "M",
+    "desc": "Introduction to the theory and applications of integral calculus of functions of one variable; topics include integration, the fundamental theorem of calculus, transcendental functions, sequences, and infinite series. For Mathematics 308L, three lecture hours a week for one semester; for 408L, three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403L, 408L (or 308L), 408S."
+  },
+  {
+    "key": "408M",
+    "title": "Multivariable Calculus",
+    "req": "8",
+    "color": "lightgreen",
+    "hours": "4",
+    "dept": "M",
+    "desc": "Introduction to the theory and applications of differential and integral calculus of functions of several variables. Includes parametric equations, polar coordinates, vectors, vector calculus, functions of several variables, partial derivatives, gradients, and multiple integrals. For Mathematics 308M, three lecture hours a week for one semester; for 408M, three lecture hours and two discussion hours a week for one semester. Only one of the following may be counted: Mathematics 403L, 408D, 408M (or 308M). "
+  },
+  {
+    "key": "329F",
+    "title": "Theory of Interest",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": "Same as Actuarial Foundations 329. Measurement of interest, present and accumulated value, amortization, sinking funds, bonds, duration, and immunization. Covers the interest-theory portion of an exam of the Society of Actuaries and the Casualty Actuarial Society. Three lecture hours a week for one semester. Only one of the following may be counted: Actuarial Foundations 329, Mathematics 329F, 389F."
+  },
+  {
+    "key": "362K",
+    "title": "Probability I",
+    "req": "8",
+    "color": "lightgreen",
+    "hours": "3",
+    "dept": "M",
+    "desc": "An introduction to the mathematical theory of probability, fundamental to further work in probability and statistics, includes basic probability properties, conditional probability and independence, various discrete and continuous random variables, expectation and variance, central limit theorem, and joint probability distributions. Three lecture hours a week for one semester. Mathematics 362K and Statistics and Scientific Computation 321 may not both be counted."
+  },
+  {
+    "key": "339D",
+    "title": "Intro Financial Mathematics for Actuaries",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "339C",
+    "title": "Actuarial Case Studies",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "378K",
+    "title": "Introduction to Mathematical Statistics",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "341",
+    "title": "Linear Algebra and Matrix Theory",
+    "req": "8",
+    "color": "lightgrey",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "346",
+    "title": "Applied Linear Algebra",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "343K",
+    "title": "Introduction to Algebraic Structures",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "361K",
+    "title": "Introduction to Real Analysis",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "325K",
+    "title": "Discrete Mathematics",
+    "req": "9",
+    "color": "pink",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "333L",
+    "title": "Structure of Modern Geometry",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "427J",
+    "title": "Differential Equations with Linear Algebra",
+    "req": "10",
+    "color": "lightgreen",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "427L",
+    "title": "Advanced Calculus for Applications II",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "427K",
+    "title": "Advanced Calculus for Applications",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "343L",
+    "title": "Applied Number Theory",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "328K",
+    "title": "Introduction to Number Theory",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "339J",
+    "title": "Probability Models with Actuarial Applications",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "339U",
+    "title": "Actuarial Contingent Payments I",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "339V",
+    "title": "Actuarial Contingent Payments II",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "339W",
+    "title": "Financial Mathematics for Actuarial Applications",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "344K",
+    "title": "Intermediate Symbolic Logic",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "348",
+    "title": "Scientific Computation in Numerical Analysis",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "349P",
+    "title": "Actuarial Statistical Estimates",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "349R",
+    "title": "Applied Regression and Time Series",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "358K",
+    "title": "Applied Statistics",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "361",
+    "title": "Theory of Functions of a Complex Variable",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "362M",
+    "title": "Introduction to Stochastic Processes",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "365C",
+    "title": "Real Analysis I",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "365D",
+    "title": "Real Analysis II",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "365G",
+    "title": "Curves and Surfaces",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "367K",
+    "title": "Topology I",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "367L",
+    "title": "Topology II",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "368K",
+    "title": "Numerical Methods for Applications",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "372K",
+    "title": "Partial Differential Equations and Applications",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "373K",
+    "title": "Algebraic Structures I",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "373L",
+    "title": "Algebraic Structures II",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "374G",
+    "title": "Linear Regression Analysis",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "374M",
+    "title": "Mathematical Modeling in Science and Engineering",
+    "req": "10",
+    "color": "tomato",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  },
+  {
+    "key": "375D",
+    "title": "Discovery: An Introduction to Advanced Study in Mathematics",
+    "req": "10",
+    "color": "orange",
+    "hours": "3",
+    "dept": "M",
+    "desc": ""
+  }
+
+]
